@@ -40,3 +40,73 @@ Each entry follows this format:
 - Pay attention to what other symbols appear alongside the problematic one
 - Consider the academic field or paper source
 - When in doubt, check the field-identification reference for broader context
+
+## Symbol: ×
+**Why it's confusing**: The multiplication symbol × means completely different operations depending on the mathematical context.
+
+### Elementary Arithmetic
+- **Meaning**: Simple scalar multiplication
+- **Context clues**: Regular numbers, no special notation
+- **Example**: $3 \times 4 = 12$
+
+### Linear Algebra (Cross Product)
+- **Meaning**: Vector cross product - produces a vector perpendicular to both inputs
+- **Context clues**: Bold vector notation ($\mathbf{u}$, $\mathbf{v}$) or vector arrows
+- **Example**: $\mathbf{u} \times \mathbf{v}$
+
+### Matrix Multiplication
+- **Meaning**: Matrix multiplication following specific rules different from scalar multiplication
+- **Context clues**: Capital letters representing matrices, discussion of dimensions
+- **Example**: $A \times B$ where $A$ and $B$ are matrices
+
+**Resolution strategy**: Look for bold vectors, capital matrix letters, or plain numbers to determine the context.
+
+## Symbol: ·
+**Why it's confusing**: The dot symbol means different mathematical operations with different properties.
+
+### Elementary Arithmetic
+- **Meaning**: Simple scalar multiplication
+- **Context clues**: Regular numbers, basic arithmetic context
+- **Example**: $3 \cdot 4 = 12$
+
+### Vector Mathematics (Dot Product)
+- **Meaning**: Vector dot product - produces a scalar result, not a vector
+- **Context clues**: Bold vector notation ($\mathbf{u}$, $\mathbf{v}$) or vector arrows
+- **Example**: $\mathbf{u} \cdot \mathbf{v}$
+
+**Resolution strategy**: Look for vector notation (bold letters, arrows) to distinguish dot product from scalar multiplication.
+
+## Symbol: +
+**Why it's confusing**: Addition looks the same but follows different rules in different mathematical contexts.
+
+### Elementary Arithmetic
+- **Meaning**: Simple numerical addition
+- **Context clues**: Regular numbers, basic arithmetic operations
+- **Example**: $3 + 4 = 7$
+
+### Vector Mathematics
+- **Meaning**: Vector addition - follows different algebraic properties than scalar addition
+- **Context clues**: Bold vector notation ($\mathbf{u}$, $\mathbf{v}$) or vector arrows
+- **Example**: $\mathbf{u} + \mathbf{v}$
+
+### Set Theory (Disjoint Union)
+- **Meaning**: Disjoint union of sets - completely different from numeric addition
+- **Context clues**: Capital letters representing sets, discussion of elements
+- **Example**: $A + B$ (sometimes used for disjoint union)
+
+**Resolution strategy**: Check for vector notation, set notation, or plain numbers to determine the operation type.
+
+## Symbol: -
+**Why it's confusing**: Subtraction has different meanings and properties across mathematical fields.
+
+### Elementary Arithmetic
+- **Meaning**: Simple numerical subtraction
+- **Context clues**: Regular numbers, basic arithmetic operations
+- **Example**: $7 - 3 = 4$
+
+### Set Theory (Set Difference)
+- **Meaning**: Set difference - removes elements of one set from another
+- **Context clues**: Capital letters representing sets, discussion of elements
+- **Example**: $A - B$ (elements in A but not in B)
+
+**Resolution strategy**: Look for set notation (capital letters, element discussions) versus plain numbers to distinguish set difference from arithmetic subtraction.
