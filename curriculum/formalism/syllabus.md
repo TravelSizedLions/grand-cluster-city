@@ -25,23 +25,21 @@ This is not meant to be a deep dive into any one form of math. Rather, it's a pr
 
 ## Course Structure
 
-The structure of this course will be comprised of a series of discussions on each covered mathematical dialect. For each subject, we'll cover:
+The structure of this course will be comprised of a series of discussions on each covered mathematical dialect. Each lesson follows a consistent format:
 
-### Core Notation Elements
-- Common operators and their intuitions
-- Common constants
-- Common terminology
-- Common variable and function naming schemes
-- Sub-formalisms - or "shortcuts" in notation typically used to simplify writing the formal equations of the given field
+### Core Notation
+For each mathematical concept, we provide:
+- **Conceptual explanation** - What the operation or concept actually means mathematically
+- **Notation variations** - The different ways it's written across mathematical contexts
+- **Usage examples** - Practical examples showing how it appears in real mathematical work
+- **Context-specific details** - When and why certain notations are preferred in different fields
 
-### Interdisciplinary Navigation Tools
-- **Field signatures** - The 3-5 pieces of notation that immediately identify when you're looking at this particular field of mathematics
-- **Notation conflicts** - Where the same symbol means different things across fields, and how to distinguish context
-- **Context clues** - What other notation typically appears alongside key symbols to help confirm the mathematical context
+### Navigation Tools
+- **Recognizing this field** - The key pieces of notation that immediately identify when you're looking at this particular field of mathematics
 - **Translation tables** - How concepts and notation map between this field and related mathematical areas
 - **Most likely encounters** - What academic or professional contexts you're most likely to encounter this notation in
 
-### Foundational Discussion
+## Foundational Discussion
 Prior to this main body of discourse, we'll discuss the topic of formalism itself. What is it? How and why is it used? And most importantly, how to recognize good formalism and bad formalism–that's right, sometimes a provided equation really is just unnecessarily confusing or under-explained
 
 ## Why Work Through this Course?
@@ -52,4 +50,4 @@ Math is just another programming language–and one with a number of disparate f
 
 ## Using this Course as Reference
 
-If you are largely familiar with mathematical formalism already and just need a reference guide, this course is structured to support that. Each field lesson includes quick identification tools and cross-references to help you rapidly navigate between mathematical contexts and resolve notation conflicts in interdisciplinary research. 
+If you are largely familiar with mathematical formalism already and just need a reference guide, this course is structured to support that. Each field lesson includes quick identification tools and cross-references to help you rapidly navigate between mathematical contexts. For notation conflicts and disambiguation, see the dedicated reference section which centralizes symbol conflicts across all mathematical fields. 
